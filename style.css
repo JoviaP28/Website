@@ -1,0 +1,20 @@
+h1{
+    color:white;
+}
+body{
+    background-color: rgb(211, 166, 234);
+}
+.header{
+    background-color: blueviolet;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.item{
+    position: relative;
+    border:solid 2px red;
+}
